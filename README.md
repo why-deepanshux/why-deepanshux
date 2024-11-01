@@ -1,3 +1,5 @@
+![Banner](./assets/banner.gif)
+
 # 💫 About Me:
 🔭 I’m currently working on ML skills<br>👯 I’m looking to collaborate on multiple projects<br>🌱 I’m currently learning AIML<br>💬 Ask me about Anime and Tech<br>⚡ Fun fact - I play Guitar 
 
