@@ -1,147 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0d0d0d,100:1a1a1a&height=200&section=header&text=Deepanshu%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20Ships%20Things%20That%20Matter&descSize=16&descAlignY=68&descColor=888888&animation=fadeIn&stroke=333333&strokeWidth=1" width="100%"/>
 
-# Deepanshu Sharma
-### Software Engineer · Product Builder · Full-Stack
+<br/>
 
-*I don't just write code — I ship products.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=TypeScript+%7C+NestJS+%7C+Next.js+%7C+PostgreSQL;Building+AI+systems+and+SaaS+products;Zero+to+production+%E2%80%94+fast.;1%2B+year+professional+%7C+New+Delhi+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-whydeepanshux.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://whydeepanshux.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-sharma-449b661ba/)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshusharma12800@gmail.com)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/%E2%86%97%20Portfolio-000000?style=flat-square&logoColor=white)](https://whydeepanshux.vercel.app/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshu-sharma-449b661ba/)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deepanshusharma12800@gmail.com)&nbsp;&nbsp;
+[![Thrift Money](https://img.shields.io/badge/%F0%9F%92%B8%20thriftmoney.in-111111?style=flat-square)](https://www.thriftmoney.in/)&nbsp;&nbsp;
+[![Stackforce](https://img.shields.io/badge/%F0%9F%9A%80%20stackforce.co-111111?style=flat-square)](https://stackforce.co)
 
 </div>
 
 ---
 
-## 👋 About Me
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=why-deepanshux&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=0d0d0d" />
 
-```ts
-const deepanshu = {
-  role:       "Software Engineer / Product Engineer",
-  location:   "New Delhi, India 🇮🇳",
-  experience: "1+ year professional, building since forever",
-  obsession:  "Taking ideas from zero → production",
-  stack:      ["TypeScript", "React", "Next.js", "NestJS", "PostgreSQL"],
-  currently:  "Building things that actually ship",
-  ask_me_about: ["Full-stack systems", "AI pipelines", "Product engineering"],
+### Hey, I'm Deepanshu 👋
+
+I build products, not just features.
+
+In the last year I've shipped an AI hiring SaaS with **500+ beta sign-ups**, an AI lead pipeline ingesting **80+ leads/day**, a full HRMS backend used by **250+ people**, and a personal finance app that's live right now.
+
+I don't wait for perfect specs. I take ambiguous problems and turn them into working software — fast.
+
+Currently open to roles where the bar is high and the team ships often.
+
+<br clear="right"/>
+
+---
+
+## 🚀 Shipped
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://stackforce.co">⚡ Stackforce</a></h3>
+<img src="https://img.shields.io/badge/AI%20Hiring%20SaaS-Live-brightgreen?style=flat-square&labelColor=0d0d0d&color=22c55e" />
+<br/><br/>
+Lead product engineer on a <strong>2-person team</strong>. Owned entire frontend + backend data pipelines end-to-end.
+<br/><br/>
+
+| | |
+|:--|:--|
+| 🏆 Result | 500+ sign-ups, beta month |
+| 🧱 Stack | React · Next.js · NestJS · PostgreSQL |
+| 🎯 Role | Lead Product Engineer |
+
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://www.thriftmoney.in/">💸 Thrift Money</a></h3>
+<img src="https://img.shields.io/badge/Finance%20OS-Live-brightgreen?style=flat-square&labelColor=0d0d0d&color=22c55e" />
+<br/><br/>
+Every recurring obligation flows through an approval inbox before becoming a transaction. RFC 5545 recurrence engine. Impossible to go negative.
+<br/><br/>
+
+| | |
+|:--|:--|
+| 🏆 Status | Live in production |
+| 🧱 Stack | NestJS · Next.js 16 · React 19 · Tailwind v4 |
+| 🎯 Role | Solo builder |
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 Lead Magnet</h3>
+<img src="https://img.shields.io/badge/AI%20Pipeline-Production-blue?style=flat-square&labelColor=0d0d0d&color=3b82f6" />
+<br/><br/>
+AI-driven lead generation system built from scratch. Automated ingestion pipeline extended into a live job board with React Native integration.
+<br/><br/>
+
+| | |
+|:--|:--|
+| 🏆 Result | 80+ leads/day · 100+ sources |
+| 🧱 Stack | NestJS · TypeORM · Web Scraping · Cron |
+| 🎯 Role | Architect + Builder @ UIX Tech Labs |
+
+</td>
+<td width="50%" valign="top">
+<h3>🔐 OAuth Platform</h3>
+<img src="https://img.shields.io/badge/Integration%20System-Production-blue?style=flat-square&labelColor=0d0d0d&color=3b82f6" />
+<br/><br/>
+Secure OAuth integration layer for a project management platform — enabling third-party apps to authenticate and connect with internal services reliably at scale.
+<br/><br/>
+
+| | |
+|:--|:--|
+| 🏆 Scale | Enterprise-grade, multi-tenant |
+| 🧱 Stack | NestJS · TypeScript · PostgreSQL |
+| 🎯 Role | Backend Engineer @ UIX Tech Labs |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Stack
+
+```typescript
+const stack = {
+  languages:  ["TypeScript", "JavaScript", "Python", "C++"],
+  frontend:   ["React", "Next.js", "Tailwind", "React Native"],
+  backend:    ["NestJS", "Node.js", "Express", "GraphQL", "REST"],
+  databases:  ["PostgreSQL", "MongoDB", "TypeORM"],
+  infra:      ["AWS", "Docker", "CI/CD", "Cron Jobs"],
+  ai:         ["Claude Code", "AI Workflows", "Automation Pipelines"],
+  practices:  ["Agile", "OAuth at scale", "Web Scraping", "RBAC"],
 };
 ```
 
-I'm a product-focused engineer who thrives at the intersection of engineering and product. I've built AI hiring platforms, lead generation systems, finance apps, and HRMS backends — all in production, all with real users.
-
 ---
 
-## 🚀 Things I've Shipped
+## 📊 GitHub Activity
 
-### 🟡 [Stackforce](https://stackforce.co) — AI Hiring SaaS
-> *Led as primary product engineer in a 2-person team*
-
-- Owned the **entire frontend** (React/Next.js) and backend data pipelines
-- **500+ sign-ups** within the beta launch month
-- AI-powered candidate processing with scalable backend integrations
-
----
-
-### 💸 [Thrift Money](https://www.thriftmoney.in) — The Approval Inbox for Your Money
-> *Personal project, fully live*
-
-- Full-stack finance platform — subscriptions, EMIs, bills flow through one approval inbox
-- Built a **generic recurrence engine** (RFC 5545 + N-day cycles) — plug in new instrument types without touching the scheduler
-- Live budget engine: runway, forecast, per-wallet headroom in a **single SQL round-trip**
-- Transactional balance guard that makes negative-balance writes **impossible**
-
-**Stack:** NestJS · TypeScript · PostgreSQL · Next.js 16 · React 19 · Tailwind v4
-
----
-
-### 🤖 Lead Magnet — AI Lead Generation Pipeline
-> *Built at UIX Tech Labs*
-
-- Architected from scratch: web scraping + cron-based data pipelines
-- **80+ qualified business leads ingested daily** from 100+ sources
-- Extended into a live job board with React Native integration
-
----
-
-## 🛠 Tech Stack
+> Stats across both accounts — `why-deepanshux` (primary) and `Dex9310`
 
 <div align="center">
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Backend**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**Databases & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=why-deepanshux&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-deepanshux&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=why-deepanshux&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=0d0d0d&rank_icon=github" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Dex9310&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=0d0d0d&rank_icon=github" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=why-deepanshux&theme=github-dark-blue&hide_border=true)](https://github.com/why-deepanshux)
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-deepanshux&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=6" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dex9310&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=why-deepanshux&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Dex9310&theme=radical)
 
 </div>
 
 ---
 
-## 🏆 Highlights
+## 🏅 Highlights
 
-- 🥇 **Top 5 team** — Hack The League 3.0, JECRC Jaipur (100+ teams, 35+ cities)
-- 🏅 **Best Beginner Team** — Awarded for Ideation & Implementation
-- 🎓 **B.Tech IT** — Maharaja Agrasen Institute of Technology | **CGPA: 8.5**
-- 💼 **SDE-I @ UIX Tech Labs** — Shipped 5+ production systems in 1 year
-
----
-
-## 💡 What I'm Good At
-
-- **Product engineering** — owning features from design handoff to prod deployment
-- **AI integrations** — building pipelines, workflows, and AI-driven features
-- **Backend architecture** — APIs, RBAC, OAuth systems, HRMS, data pipelines
-- **Moving fast** — I've shipped entire products with tiny teams
+| | |
+|---|---|
+| 🥇 **Hack The League 3.0** | Top 5 / 100+ teams from 35+ cities · Best Beginner Team |
+| 🎓 **B.Tech IT — CGPA 8.5** | Maharaja Agrasen Institute of Technology, New Delhi |
+| 💼 **SDE-I @ UIX Tech Labs** | Multiple production systems shipped in 1 year |
+| 🌐 **2 live products** | Stackforce + Thrift Money — both live, both with real users |
 
 ---
 
 <div align="center">
 
-*Open to roles where I can build things that matter.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=80&section=footer" width="100%"/>
 
-[![Portfolio →](https://img.shields.io/badge/See_My_Work-whydeepanshux.vercel.app-black?style=for-the-badge&logo=vercel)](https://whydeepanshux.vercel.app/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+*Building in public. Open to ambitious teams.*
 
 </div>
